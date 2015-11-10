@@ -1,0 +1,6 @@
+num = 44
+
+if num > 100:
+	print 'yes'
+else:
+	print 'no'
